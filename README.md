@@ -2,7 +2,7 @@ My personal tmux setup.
 
 ## Installation
 
-1. Install the configuration with
+1. Install the configuration with:
 
 ```shell
 brew install EskelinenAntti/cli/tmux-configuration
